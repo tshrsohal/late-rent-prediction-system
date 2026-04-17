@@ -1,0 +1,401 @@
+request_id,property_id,tenant_id,request_date,category,cost,status
+1,3,74,2024-06-05,Heating,559,Completed
+2,3,85,2024-05-16,Electrical,416,Pending
+3,2,55,2024-02-19,Heating,794,Pending
+4,2,52,2024-04-28,Heating,491,Pending
+5,5,121,2024-02-11,Electrical,719,Completed
+6,3,86,2024-03-05,Plumbing,756,Pending
+7,1,16,2024-04-05,General Repair,205,Completed
+8,5,144,2024-03-13,Plumbing,264,Pending
+9,2,52,2024-04-25,General Repair,250,Pending
+10,3,94,2024-01-24,Electrical,561,Pending
+11,3,90,2024-01-07,Appliance,154,Pending
+12,5,133,2024-05-08,Heating,341,Pending
+13,3,86,2024-01-21,Heating,329,Completed
+14,3,95,2024-03-22,Plumbing,765,Pending
+15,5,145,2024-02-07,Electrical,139,Pending
+16,1,11,2024-04-30,Electrical,580,Pending
+17,2,54,2024-06-06,Plumbing,181,Completed
+18,3,63,2024-03-06,Electrical,253,Pending
+19,4,115,2024-01-29,Heating,343,Pending
+20,2,45,2024-02-01,Plumbing,344,Pending
+21,1,12,2024-06-12,General Repair,568,Completed
+22,2,32,2024-01-29,Appliance,711,Completed
+23,4,115,2024-06-10,General Repair,688,Completed
+24,5,130,2024-02-06,Heating,539,Completed
+25,2,58,2024-06-06,Heating,346,Pending
+26,5,125,2024-02-17,Plumbing,636,Pending
+27,1,12,2024-01-18,General Repair,657,Completed
+28,1,18,2024-04-09,Appliance,144,Pending
+29,4,103,2024-04-05,Heating,116,Pending
+30,3,81,2024-01-18,Heating,346,Completed
+31,1,8,2024-05-28,Heating,236,Completed
+32,3,84,2024-03-31,General Repair,446,Completed
+33,5,126,2024-06-24,Appliance,590,Completed
+34,3,85,2024-02-04,Plumbing,568,Completed
+35,5,149,2024-03-16,Electrical,144,Completed
+36,1,7,2024-01-11,Heating,417,Pending
+37,3,75,2024-05-19,Appliance,359,Completed
+38,3,61,2024-06-14,Electrical,392,Pending
+39,3,79,2024-01-13,Heating,379,Completed
+40,3,61,2024-04-04,Appliance,509,Pending
+41,4,117,2024-04-08,Heating,291,Pending
+42,3,94,2024-06-26,Appliance,476,Pending
+43,1,2,2024-01-22,Appliance,180,Pending
+44,2,44,2024-06-03,Electrical,658,Pending
+45,4,118,2024-03-23,Plumbing,181,Pending
+46,4,120,2024-06-18,Heating,413,Pending
+47,2,31,2024-06-03,Appliance,270,Pending
+48,2,25,2024-03-30,Appliance,143,Pending
+49,5,149,2024-06-06,Appliance,381,Completed
+50,1,3,2024-01-20,Appliance,472,Completed
+51,1,8,2024-01-08,Electrical,722,Pending
+52,3,83,2024-01-09,Electrical,168,Completed
+53,3,81,2024-06-14,Heating,470,Pending
+54,3,78,2024-05-25,Plumbing,719,Completed
+55,5,145,2024-06-22,Appliance,479,Pending
+56,5,149,2024-04-23,Plumbing,687,Completed
+57,3,101,2024-05-15,Heating,507,Pending
+58,3,102,2024-06-15,Heating,355,Completed
+59,5,127,2024-01-07,Electrical,611,Pending
+60,3,86,2024-05-23,Plumbing,368,Pending
+61,4,116,2024-06-29,Appliance,319,Pending
+62,4,114,2024-06-26,Appliance,304,Completed
+63,5,125,2024-02-04,Plumbing,562,Completed
+64,3,89,2024-04-23,Plumbing,798,Pending
+65,2,36,2024-06-19,Heating,166,Pending
+66,3,63,2024-03-17,Electrical,753,Completed
+67,5,125,2024-04-02,General Repair,329,Completed
+68,2,50,2024-02-21,Electrical,342,Pending
+69,2,45,2024-01-07,Heating,667,Pending
+70,5,148,2024-04-29,General Repair,232,Completed
+71,4,109,2024-01-17,Heating,507,Pending
+72,3,100,2024-05-14,Appliance,519,Completed
+73,5,132,2024-02-02,Heating,757,Completed
+74,3,78,2024-04-25,Appliance,796,Pending
+75,5,145,2024-02-02,General Repair,755,Completed
+76,2,48,2024-02-03,Appliance,614,Completed
+77,2,27,2024-02-01,General Repair,256,Pending
+78,3,67,2024-02-12,Electrical,430,Completed
+79,5,121,2024-03-29,General Repair,390,Completed
+80,3,82,2024-03-05,Electrical,750,Pending
+81,1,19,2024-02-02,Heating,729,Completed
+82,4,110,2024-05-08,Electrical,706,Completed
+83,5,128,2024-02-13,General Repair,719,Pending
+84,2,48,2024-05-24,Plumbing,129,Completed
+85,5,146,2024-01-12,General Repair,371,Completed
+86,2,25,2024-05-26,Appliance,732,Completed
+87,2,53,2024-05-07,General Repair,396,Pending
+88,1,22,2024-05-03,Electrical,515,Pending
+89,5,140,2024-04-26,Plumbing,161,Completed
+90,3,64,2024-04-22,Appliance,595,Pending
+91,2,25,2024-02-22,Heating,721,Completed
+92,3,71,2024-03-21,Heating,453,Pending
+93,2,35,2024-02-03,Heating,627,Completed
+94,1,7,2024-03-22,Electrical,577,Completed
+95,2,55,2024-03-09,Appliance,353,Completed
+96,5,138,2024-01-25,Plumbing,397,Pending
+97,2,34,2024-06-06,Appliance,354,Completed
+98,5,146,2024-03-24,General Repair,420,Completed
+99,5,136,2024-02-10,Appliance,627,Pending
+100,5,122,2024-05-07,Heating,609,Completed
+101,4,108,2024-01-24,Appliance,617,Pending
+102,2,54,2024-03-02,Electrical,697,Pending
+103,5,121,2024-01-13,Plumbing,388,Pending
+104,3,85,2024-06-01,Appliance,392,Completed
+105,1,1,2024-01-28,Appliance,237,Pending
+106,4,111,2024-04-03,Appliance,474,Completed
+107,3,92,2024-04-12,Plumbing,683,Completed
+108,1,24,2024-04-02,General Repair,395,Completed
+109,2,43,2024-04-08,General Repair,561,Pending
+110,2,48,2024-06-08,General Repair,221,Completed
+111,1,8,2024-01-25,Appliance,482,Pending
+112,3,93,2024-05-22,Heating,247,Completed
+113,5,132,2024-06-03,General Repair,511,Completed
+114,3,82,2024-01-12,Plumbing,240,Pending
+115,2,28,2024-05-01,General Repair,567,Completed
+116,2,34,2024-06-04,General Repair,243,Pending
+117,4,106,2024-06-05,Heating,266,Pending
+118,5,142,2024-06-06,Heating,707,Pending
+119,1,10,2024-05-09,General Repair,645,Pending
+120,3,98,2024-05-24,Heating,586,Completed
+121,3,82,2024-04-04,Heating,789,Completed
+122,5,143,2024-04-16,General Repair,415,Completed
+123,3,67,2024-06-01,Appliance,371,Completed
+124,2,47,2024-01-14,General Repair,591,Completed
+125,4,117,2024-05-14,General Repair,489,Completed
+126,3,62,2024-06-23,Electrical,132,Completed
+127,5,141,2024-02-18,Plumbing,551,Pending
+128,4,108,2024-04-17,Electrical,522,Completed
+129,4,119,2024-04-15,General Repair,726,Pending
+130,2,35,2024-01-16,Electrical,631,Completed
+131,3,81,2024-05-23,Heating,778,Pending
+132,3,82,2024-05-14,Appliance,421,Completed
+133,3,79,2024-04-27,General Repair,450,Pending
+134,2,60,2024-06-22,Heating,724,Pending
+135,3,70,2024-02-19,Electrical,385,Pending
+136,3,68,2024-02-27,Heating,395,Completed
+137,3,86,2024-06-25,Appliance,424,Pending
+138,3,81,2024-03-30,General Repair,380,Pending
+139,3,69,2024-02-01,General Repair,792,Pending
+140,2,50,2024-04-11,Heating,249,Pending
+141,5,129,2024-01-11,Heating,180,Pending
+142,2,29,2024-04-23,Heating,590,Completed
+143,2,42,2024-02-21,General Repair,377,Pending
+144,2,27,2024-02-05,Plumbing,730,Completed
+145,3,74,2024-03-03,Plumbing,785,Completed
+146,2,60,2024-06-12,Electrical,153,Completed
+147,3,82,2024-04-15,Heating,583,Completed
+148,3,71,2024-06-23,Electrical,105,Completed
+149,1,5,2024-04-14,Appliance,588,Completed
+150,3,76,2024-03-14,Heating,392,Completed
+151,2,43,2024-01-23,General Repair,337,Completed
+152,2,33,2024-02-14,Appliance,280,Completed
+153,3,95,2024-04-11,Appliance,290,Pending
+154,2,29,2024-01-10,Plumbing,405,Completed
+155,1,15,2024-03-26,Heating,565,Pending
+156,5,129,2024-02-04,General Repair,579,Pending
+157,3,98,2024-02-19,Plumbing,438,Completed
+158,3,68,2024-04-27,Heating,290,Completed
+159,4,111,2024-03-27,Heating,681,Completed
+160,1,1,2024-02-14,General Repair,754,Pending
+161,2,48,2024-04-19,General Repair,435,Completed
+162,3,99,2024-04-12,Plumbing,289,Completed
+163,1,9,2024-05-02,Heating,354,Completed
+164,3,83,2024-03-07,Appliance,341,Pending
+165,3,91,2024-03-09,Heating,409,Completed
+166,5,137,2024-03-07,Heating,341,Completed
+167,3,82,2024-06-19,Plumbing,576,Pending
+168,1,18,2024-02-10,Appliance,614,Pending
+169,3,94,2024-06-25,Plumbing,754,Pending
+170,5,147,2024-04-04,General Repair,326,Completed
+171,1,23,2024-02-04,Appliance,256,Pending
+172,5,121,2024-06-04,Heating,525,Pending
+173,5,145,2024-05-17,Electrical,353,Completed
+174,5,149,2024-05-14,Appliance,640,Pending
+175,1,6,2024-01-20,General Repair,214,Completed
+176,2,27,2024-05-20,General Repair,307,Completed
+177,2,50,2024-02-12,Heating,632,Pending
+178,5,143,2024-01-30,Electrical,697,Pending
+179,5,141,2024-01-24,General Repair,556,Completed
+180,3,64,2024-04-26,Electrical,625,Pending
+181,2,37,2024-04-26,General Repair,159,Pending
+182,1,21,2024-06-21,Heating,122,Pending
+183,4,104,2024-03-06,Plumbing,323,Completed
+184,5,122,2024-01-12,Appliance,452,Completed
+185,1,22,2024-05-18,Plumbing,170,Pending
+186,3,83,2024-01-09,Heating,518,Completed
+187,5,144,2024-02-04,Appliance,483,Pending
+188,5,138,2024-04-24,Appliance,484,Completed
+189,3,88,2024-06-23,General Repair,236,Pending
+190,4,119,2024-01-31,Electrical,650,Pending
+191,3,61,2024-05-15,Electrical,328,Completed
+192,3,78,2024-01-06,Heating,574,Pending
+193,1,7,2024-05-16,Appliance,335,Completed
+194,1,6,2024-04-27,Heating,258,Pending
+195,3,92,2024-02-18,Plumbing,132,Pending
+196,3,85,2024-06-06,Plumbing,346,Completed
+197,1,3,2024-01-18,Plumbing,708,Completed
+198,3,87,2024-04-24,General Repair,788,Completed
+199,2,50,2024-03-03,Plumbing,511,Pending
+200,3,76,2024-02-29,General Repair,322,Completed
+201,3,99,2024-02-05,General Repair,396,Completed
+202,1,12,2024-05-27,Heating,691,Pending
+203,3,100,2024-03-01,Heating,246,Completed
+204,1,20,2024-04-15,Heating,381,Completed
+205,5,133,2024-05-22,General Repair,279,Pending
+206,2,43,2024-05-22,Appliance,148,Pending
+207,2,54,2024-06-13,Appliance,637,Pending
+208,2,48,2024-06-27,Appliance,518,Completed
+209,2,37,2024-03-17,Appliance,288,Pending
+210,4,119,2024-03-02,Electrical,407,Completed
+211,5,135,2024-04-28,Plumbing,675,Pending
+212,4,120,2024-04-16,General Repair,642,Completed
+213,5,131,2024-04-09,Electrical,361,Completed
+214,3,86,2024-03-25,Plumbing,560,Pending
+215,5,147,2024-01-24,General Repair,295,Completed
+216,2,57,2024-03-09,Appliance,789,Completed
+217,1,3,2024-01-19,Electrical,701,Completed
+218,3,97,2024-05-02,Electrical,440,Pending
+219,5,148,2024-01-04,Electrical,294,Completed
+220,3,101,2024-05-02,Electrical,718,Completed
+221,3,69,2024-04-11,Electrical,665,Pending
+222,1,11,2024-03-13,Appliance,577,Pending
+223,2,49,2024-03-19,Heating,468,Pending
+224,5,142,2024-04-29,Plumbing,580,Pending
+225,3,96,2024-02-22,Heating,420,Pending
+226,1,12,2024-01-12,General Repair,326,Completed
+227,3,91,2024-01-05,Heating,666,Pending
+228,2,56,2024-03-16,Electrical,300,Pending
+229,3,96,2024-02-28,Appliance,683,Completed
+230,2,50,2024-05-07,General Repair,770,Pending
+231,3,93,2024-03-06,Appliance,757,Pending
+232,3,102,2024-04-27,Electrical,460,Completed
+233,4,117,2024-02-05,General Repair,600,Completed
+234,2,45,2024-05-18,Plumbing,636,Completed
+235,3,93,2024-01-20,Plumbing,106,Pending
+236,2,57,2024-02-05,Electrical,169,Completed
+237,1,12,2024-01-03,Electrical,617,Pending
+238,1,15,2024-04-05,Plumbing,732,Pending
+239,5,135,2024-06-17,Appliance,116,Completed
+240,3,88,2024-05-16,General Repair,521,Completed
+241,5,140,2024-01-05,General Repair,381,Pending
+242,5,142,2024-01-05,General Repair,790,Pending
+243,5,140,2024-02-15,Plumbing,198,Completed
+244,3,78,2024-03-02,Electrical,734,Pending
+245,1,14,2024-03-31,Heating,506,Completed
+246,1,17,2024-04-05,Appliance,570,Completed
+247,1,9,2024-06-27,Electrical,407,Completed
+248,5,148,2024-06-16,Plumbing,195,Pending
+249,5,134,2024-04-07,Appliance,665,Pending
+250,3,77,2024-01-15,Plumbing,275,Completed
+251,3,89,2024-05-07,Appliance,760,Pending
+252,3,93,2024-05-24,Plumbing,640,Completed
+253,5,150,2024-02-28,Electrical,680,Pending
+254,2,33,2024-03-10,Plumbing,176,Pending
+255,3,99,2024-05-19,General Repair,773,Completed
+256,3,81,2024-02-15,Heating,116,Completed
+257,5,133,2024-05-30,Electrical,507,Completed
+258,3,68,2024-03-17,Electrical,677,Completed
+259,2,41,2024-05-25,Appliance,793,Pending
+260,3,86,2024-04-08,Electrical,180,Pending
+261,5,123,2024-01-14,Plumbing,547,Completed
+262,3,82,2024-01-20,Heating,719,Pending
+263,5,132,2024-03-24,Plumbing,749,Pending
+264,5,140,2024-04-25,Appliance,333,Pending
+265,2,25,2024-05-21,Appliance,542,Completed
+266,5,141,2024-06-23,General Repair,776,Pending
+267,1,22,2024-01-22,General Repair,402,Completed
+268,3,95,2024-01-19,Plumbing,374,Completed
+269,5,143,2024-04-07,Electrical,498,Pending
+270,5,129,2024-04-02,Plumbing,193,Completed
+271,2,60,2024-03-19,Appliance,468,Pending
+272,1,17,2024-01-27,Electrical,189,Completed
+273,5,142,2024-04-20,Appliance,670,Pending
+274,1,10,2024-01-27,Plumbing,191,Pending
+275,5,127,2024-05-21,Plumbing,711,Pending
+276,4,104,2024-04-08,Plumbing,398,Pending
+277,3,98,2024-04-09,Plumbing,672,Completed
+278,3,68,2024-05-26,General Repair,273,Pending
+279,5,129,2024-02-13,Electrical,375,Pending
+280,5,126,2024-03-09,Appliance,249,Completed
+281,1,5,2024-02-12,Appliance,382,Pending
+282,5,139,2024-03-17,Appliance,178,Pending
+283,3,95,2024-03-05,Electrical,740,Pending
+284,2,47,2024-06-01,General Repair,300,Pending
+285,4,104,2024-01-28,Electrical,411,Completed
+286,2,31,2024-04-11,Heating,735,Pending
+287,2,46,2024-03-25,Appliance,442,Pending
+288,3,99,2024-06-15,General Repair,239,Pending
+289,5,135,2024-03-23,General Repair,305,Pending
+290,5,141,2024-03-21,Electrical,507,Pending
+291,2,52,2024-03-15,Appliance,689,Completed
+292,3,85,2024-03-24,Appliance,387,Pending
+293,2,49,2024-04-03,Plumbing,677,Completed
+294,4,106,2024-05-31,General Repair,284,Completed
+295,4,117,2024-04-28,Electrical,548,Pending
+296,1,17,2024-06-26,Plumbing,518,Pending
+297,1,1,2024-02-05,Heating,347,Pending
+298,4,120,2024-06-17,Electrical,533,Pending
+299,3,75,2024-01-19,Appliance,712,Pending
+300,2,26,2024-05-29,Appliance,647,Pending
+301,3,88,2024-05-19,Plumbing,468,Completed
+302,3,74,2024-01-28,Electrical,773,Pending
+303,4,111,2024-02-12,General Repair,145,Pending
+304,2,54,2024-03-25,Appliance,208,Completed
+305,1,10,2024-01-26,Heating,327,Completed
+306,4,115,2024-04-24,Heating,500,Pending
+307,3,96,2024-06-22,General Repair,612,Completed
+308,3,71,2024-03-29,Plumbing,594,Completed
+309,3,92,2024-03-16,Appliance,187,Completed
+310,2,47,2024-02-06,Heating,419,Pending
+311,5,128,2024-04-26,Electrical,633,Pending
+312,5,130,2024-03-30,Appliance,199,Pending
+313,4,108,2024-06-27,Appliance,426,Completed
+314,2,53,2024-03-17,Plumbing,217,Completed
+315,3,82,2024-03-28,Plumbing,793,Completed
+316,2,35,2024-03-03,General Repair,278,Completed
+317,2,52,2024-03-25,General Repair,536,Pending
+318,4,111,2024-02-29,Appliance,744,Completed
+319,1,14,2024-02-17,Appliance,505,Completed
+320,3,91,2024-06-06,Electrical,560,Pending
+321,3,61,2024-04-09,Plumbing,319,Completed
+322,2,34,2024-03-12,Plumbing,691,Completed
+323,3,83,2024-05-17,Electrical,474,Pending
+324,3,72,2024-02-20,Appliance,216,Pending
+325,4,116,2024-06-20,Appliance,640,Pending
+326,4,115,2024-06-01,Appliance,725,Pending
+327,2,31,2024-05-30,Plumbing,456,Pending
+328,2,36,2024-04-27,General Repair,276,Pending
+329,4,114,2024-06-06,General Repair,186,Completed
+330,4,113,2024-03-21,Plumbing,344,Pending
+331,1,16,2024-01-30,Electrical,482,Completed
+332,1,3,2024-05-10,Appliance,528,Completed
+333,5,146,2024-05-27,Appliance,533,Completed
+334,3,88,2024-05-04,General Repair,760,Completed
+335,5,127,2024-05-22,Electrical,601,Pending
+336,1,10,2024-02-05,Electrical,422,Pending
+337,5,125,2024-06-07,Plumbing,467,Completed
+338,1,18,2024-05-04,Electrical,299,Pending
+339,5,128,2024-05-23,General Repair,768,Pending
+340,5,144,2024-04-14,Appliance,525,Pending
+341,5,145,2024-05-05,Electrical,184,Completed
+342,3,83,2024-02-26,Heating,133,Pending
+343,3,77,2024-02-27,General Repair,395,Completed
+344,1,10,2024-04-27,General Repair,607,Completed
+345,5,130,2024-05-26,Plumbing,374,Pending
+346,3,95,2024-05-18,Plumbing,551,Completed
+347,3,94,2024-04-18,Plumbing,769,Completed
+348,5,125,2024-03-17,Plumbing,560,Pending
+349,5,137,2024-03-30,Plumbing,549,Completed
+350,2,51,2024-03-01,Electrical,702,Pending
+351,5,145,2024-06-05,Appliance,269,Completed
+352,2,26,2024-02-22,Electrical,160,Pending
+353,1,16,2024-05-16,Heating,711,Completed
+354,3,95,2024-03-23,Heating,396,Pending
+355,1,9,2024-05-11,Plumbing,238,Pending
+356,5,125,2024-01-16,Heating,771,Completed
+357,3,70,2024-06-28,Electrical,355,Completed
+358,5,129,2024-03-23,Electrical,792,Pending
+359,5,145,2024-05-05,Electrical,691,Pending
+360,1,4,2024-06-09,Appliance,484,Pending
+361,2,27,2024-01-20,Plumbing,512,Pending
+362,5,122,2024-06-26,Heating,565,Pending
+363,3,68,2024-03-24,General Repair,102,Completed
+364,3,76,2024-04-27,Heating,164,Pending
+365,2,45,2024-02-25,Appliance,316,Pending
+366,1,23,2024-03-09,Heating,390,Pending
+367,2,30,2024-05-20,General Repair,233,Pending
+368,4,108,2024-03-28,Plumbing,147,Completed
+369,1,10,2024-06-09,Appliance,116,Completed
+370,4,112,2024-02-10,Appliance,567,Completed
+371,2,43,2024-04-19,Electrical,235,Pending
+372,5,135,2024-02-10,Heating,195,Pending
+373,5,136,2024-03-05,Plumbing,480,Completed
+374,5,141,2024-01-14,Appliance,740,Pending
+375,3,98,2024-06-28,Electrical,539,Completed
+376,3,74,2024-06-29,Plumbing,101,Completed
+377,1,22,2024-05-02,Plumbing,235,Completed
+378,5,149,2024-05-12,Appliance,109,Completed
+379,1,11,2024-06-27,Heating,223,Pending
+380,3,64,2024-06-26,Electrical,589,Completed
+381,5,141,2024-02-28,Appliance,191,Completed
+382,2,56,2024-01-27,Heating,476,Pending
+383,3,76,2024-02-05,Appliance,236,Completed
+384,1,20,2024-01-18,General Repair,676,Completed
+385,2,37,2024-06-05,Electrical,550,Pending
+386,3,91,2024-02-24,Electrical,521,Pending
+387,2,57,2024-02-25,Plumbing,202,Completed
+388,1,17,2024-02-01,General Repair,493,Pending
+389,5,133,2024-04-19,Heating,243,Completed
+390,5,137,2024-03-11,Plumbing,354,Pending
+391,1,24,2024-06-25,Plumbing,774,Pending
+392,4,115,2024-02-22,General Repair,721,Completed
+393,5,122,2024-04-10,Heating,761,Completed
+394,3,84,2024-03-02,Appliance,495,Completed
+395,3,74,2024-03-02,Appliance,753,Completed
+396,5,122,2024-05-15,Plumbing,469,Pending
+397,1,17,2024-02-03,Appliance,682,Pending
+398,5,142,2024-04-03,General Repair,799,Completed
+399,5,124,2024-04-30,Plumbing,117,Completed
+400,5,148,2024-01-04,Heating,320,Completed
